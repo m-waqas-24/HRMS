@@ -1,0 +1,19 @@
+ul.timeline{
+    height: 380px !important;
+    overflow-y: auto !important;
+}
+
+.page-header{
+    margin: 1rem 0 !important;
+}
+.userr-img{
+    border-radius: 50%;
+}
+
+.my-custom-font-size{
+    font-size: 18px;
+}
+
+img{
+    cursor: pointer !important;
+}
